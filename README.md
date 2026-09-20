@@ -109,56 +109,9 @@ Explore all my repositories, experiments and work in progress.
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>🤖 AI / ML & Data Science</b></summary>
-<br />
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI/ML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48" />
+<p align="center">
+  <img src="./techstack.svg" width="100%" alt="Animated tech stack: languages, AI/ML, web, databases, design, cloud and tools" />
 </p>
-</details>
-
-<details open>
-<summary><b>🌐 Web & App Development</b></summary>
-<br />
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,django,flask,php,tailwind,flutter&theme=dark" alt="Web" />
-</p>
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br />
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&theme=dark" alt="Databases" />
-</p>
-</details>
-
-<details>
-<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
-<br />
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,bash,postman,arduino&theme=dark" alt="Cloud & Tools" />
-</p>
-</details>
-
-<details>
-<summary><b>🎨 Design</b></summary>
-<br />
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,blender&theme=dark" alt="Design" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="48" height="48" />
-</p>
-</details>
-
-<details>
-<summary><b>💻 Languages</b></summary>
-<br />
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,java,js,php&theme=dark" alt="Languages" />
-</p>
-</details>
 
 ---
 
