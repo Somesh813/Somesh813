@@ -1,6 +1,6 @@
 <!-- ===== Animated wave header ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:7f5af0,100:2cb67d&height=200&section=header&text=Somesh%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="header" />
+  <img src="./header.svg" width="100%" alt="Somesh Sharma" />
 </p>
 
 <!-- ===== Typing animation ===== -->
@@ -103,24 +103,22 @@ class SomeshSharma:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=somesh813&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=somesh813&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=somesh813&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somesh813&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-</p>
-
-## 🏆 Trophies
+## 🧊 3D Contributions
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=somesh813&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
-  </a>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 </p>
 
 ## 🐍 Contribution Snake
