@@ -53,6 +53,10 @@
 </tr>
 </table>
 
+<p align="center">
+  <img src="./neural.svg" width="100%" alt="Animated neural network: Problems to Data to Models to Solutions" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -170,7 +174,8 @@ Explore all my repositories, experiments and work in progress.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=somesh813&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+  <img src="https://streak-stats.demolab.com?user=somesh813&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak" />
 </p>
 
 ## 🧊 3D Contributions
