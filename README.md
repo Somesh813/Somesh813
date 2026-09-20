@@ -28,20 +28,78 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class SomeshSharma:
-    role      = "AI & Data Science Student"
-    focus     = ["AI/ML Development", "Computer Vision", "Full-Stack Development"]
-    learning  = ["Generative AI", "Deep Learning", "MLOps", "Cloud Computing"]
-    ask_me    = ["Python", "Machine Learning", "Computer Vision", "AI", "Full-Stack"]
-    contact   = "someshsharma8132@gmail.com"
-    fun_fact  = "I enjoy turning real-world problems into AI-powered solutions ⚡"
-```
+<p align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal: whoami - Somesh Sharma, AI and Data Science student" />
+</p>
 
-- 🌱 Currently learning **Generative AI, Deep Learning, MLOps, Cloud Computing**
-- 👨‍💻 All my projects live at [github.com/Somesh813](https://github.com/Somesh813?tab=repositories)
-- 💬 Ask me about **Python, Machine Learning, Computer Vision, AI, Full-Stack Development**
-- 📫 Reach me at **someshsharma8132@gmail.com**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 What I do**
+- 🤖 Build **AI/ML models** and **Computer Vision** apps
+- 🧠 Create **LLM / RAG-powered** tools with LangChain
+- 🌐 Ship **full-stack web apps** from UI to database
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Right now**
+- 📚 Learning **Generative AI, Deep Learning, MLOps, Cloud**
+- 💬 Ask me about **Python, ML, CV, AI, Full-Stack**
+- 📫 **someshsharma8132@gmail.com**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Sunbeam Chatbot](https://github.com/Shreyashchavare/Sunbeam-Chatbot-project)
+Agentic **RAG chatbot** that answers questions with real-time website information using web scraping.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Team](https://img.shields.io/badge/Team_Project-7f5af0?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [iit_GenAI](https://github.com/Somesh813/iit_GenAI_94377)
+Generative AI coursework and experiments in Python.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-0e75b6?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 [Farm-Genius](https://github.com/Prathmesh00796/Farm-Genius)
+Smart farming web platform built as a team project.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Team](https://img.shields.io/badge/Team_Project-7f5af0?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 More on GitHub
+Explore all my repositories, experiments and work in progress.
+
+[![All repos](https://img.shields.io/badge/View_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Somesh813?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,6 +187,12 @@ class SomeshSharma:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Somesh813/Somesh813/output/github-snake.svg" />
     <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Somesh813/Somesh813/output/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=2CB67D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together+%F0%9F%9A%80;Feel+free+to+reach+out+anytime" alt="Thanks for visiting" />
 </p>
 
 <!-- ===== Animated wave footer ===== -->
