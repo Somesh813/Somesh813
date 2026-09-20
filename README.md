@@ -24,7 +24,20 @@
   <a href="mailto:someshsharma8132@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+
+<!-- ===== Quick navigation ===== -->
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/About-7f5af0?style=flat-square&logo=github&logoColor=white" alt="About" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Projects-0e75b6?style=flat-square&logo=rocket&logoColor=white" alt="Projects" /></a>
+  <a href="#coding"><img src="https://img.shields.io/badge/Coding_Profiles-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="Coding profiles" /></a>
+  <a href="#techstack"><img src="https://img.shields.io/badge/Tech_Stack-2cb67d?style=flat-square&logo=stackshare&logoColor=white" alt="Tech stack" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/Stats-f778ba?style=flat-square&logo=githubsponsors&logoColor=white" alt="Stats" /></a>
+  <a href="#activity"><img src="https://img.shields.io/badge/Activity-ffa657?style=flat-square&logo=githubactions&logoColor=white" alt="Activity" /></a>
+</p>
+
 ---
+
+<a id="about"></a>
 
 ## 🧑‍💻 About Me
 
@@ -32,26 +45,24 @@
   <img src="./terminal.svg" width="100%" alt="Terminal: whoami - Somesh Sharma, AI and Data Science student" />
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="mailto:someshsharma8132@gmail.com">
+    <img src="./focus.svg" width="100%" alt="What I do: AI/ML and Computer Vision, LLM and RAG tools, full-stack web apps. Currently learning Generative AI, Deep Learning, MLOps, Cloud Computing." />
+  </a>
+</p>
 
-**🔭 What I do**
-- 🤖 Build **AI/ML models** and **Computer Vision** apps
-- 🧠 Create **LLM / RAG-powered** tools with LangChain
-- 🌐 Ship **full-stack web apps** from UI to database
+<details>
+<summary><b>⚡ Click to know me better</b></summary>
+<br />
 
-</td>
-<td width="50%" valign="top">
+| | |
+|---|---|
+| 🎯 **Goal** | Build AI products that solve real-world problems |
+| ⚡ **Fun fact** | I enjoy turning real-world problems into AI-powered solutions |
+| 🤝 **Open to** | Collaborating on AI/ML and full-stack projects |
+| 📫 **Reach me** | [someshsharma8132@gmail.com](mailto:someshsharma8132@gmail.com) |
 
-**🌱 Right now**
-- 📚 Learning **Generative AI, Deep Learning, MLOps, Cloud**
-- 💬 Ask me about **Python, ML, CV, AI, Full-Stack**
-- 📫 **someshsharma8132@gmail.com**
-
-</td>
-</tr>
-</table>
+</details>
 
 <p align="center">
   <img src="./neural.svg" width="100%" alt="Animated neural network: Problems to Data to Models to Solutions" />
@@ -59,53 +70,43 @@
 
 ---
 
+<a id="projects"></a>
+
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/Shreyashchavare/Sunbeam-Chatbot-project"><img src="./assets/project-sunbeam.svg" width="49%" alt="Sunbeam Chatbot" /></a>
+  <a href="https://github.com/Somesh813/iit_GenAI_94377"><img src="./assets/project-genai.svg" width="49%" alt="iit_GenAI" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Prathmesh00796/Farm-Genius"><img src="./assets/project-farmgenius.svg" width="49%" alt="Farm-Genius" /></a>
+  <a href="https://github.com/Somesh813?tab=repositories"><img src="./assets/project-more.svg" width="49%" alt="More projects" /></a>
+</p>
 
-### 🤖 [Sunbeam Chatbot](https://github.com/Shreyashchavare/Sunbeam-Chatbot-project)
-Agentic **RAG chatbot** that answers questions with real-time website information using web scraping.
+<a id="coding"></a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Team](https://img.shields.io/badge/Team_Project-7f5af0?style=flat-square)
+## 🏅 Coding Profiles
 
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [iit_GenAI](https://github.com/Somesh813/iit_GenAI_94377)
-Generative AI coursework and experiments in Python.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI-0e75b6?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 [Farm-Genius](https://github.com/Prathmesh00796/Farm-Genius)
-Smart farming web platform built as a team project.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Team](https://img.shields.io/badge/Team_Project-7f5af0?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 📂 More on GitHub
-Explore all my repositories, experiments and work in progress.
-
-[![All repos](https://img.shields.io/badge/View_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Somesh813?tab=repositories)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.leetcode.com/somesh_sharma"><img src="./assets/leetcode.svg" width="32%" alt="LeetCode" /></a>
+  <a href="https://kaggle.com/somesh0217"><img src="./assets/kaggle.svg" width="32%" alt="Kaggle" /></a>
+  <a href="https://www.hackerrank.com/someshsharma0217"><img src="./assets/hackerrank.svg" width="32%" alt="HackerRank" /></a>
+</p>
 
 ---
+
+<a id="activity"></a>
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>🤖 Updated automatically every 6 hours by GitHub Actions</sub>
+
+---
+
+<a id="techstack"></a>
 
 ## 🛠️ Tech Stack
 
@@ -114,6 +115,8 @@ Explore all my repositories, experiments and work in progress.
 </p>
 
 ---
+
+<a id="stats"></a>
 
 ## 📊 GitHub Stats
 
