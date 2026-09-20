@@ -1,0 +1,45 @@
+# Save this file in your profile repo at: .github/workflows/profile-cards.yml
+# It builds your stats cards + animated 3D contribution graph inside your own repo,
+# so they never break because an outside website is down or rate-limited.
+name: Generate profile cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # runs daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  contrib-3d:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git diff --staged --quiet || git commit -m "Update 3D contribution graph"
+          git push
+
+  summary-cards:
+    needs: contrib-3d          # waits for the first job so the two pushes don't clash
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
