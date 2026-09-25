@@ -75,12 +75,12 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Shreyashchavare/Sunbeam-Chatbot-project"><img src="./assets/project-sunbeam.svg" width="49%" alt="Sunbeam Chatbot" /></a>
-  <a href="https://github.com/Somesh813/iit_GenAI_94377"><img src="./assets/project-genai.svg" width="49%" alt="iit_GenAI" /></a>
+  <a href="https://github.com/Shreyashchavare/Sunbeam-Chatbot-project"><img src="./project-sunbeam.svg" width="49%" alt="Sunbeam Chatbot" /></a>
+  <a href="https://github.com/Somesh813/iit_GenAI_94377"><img src="./project-genai.svg" width="49%" alt="iit_GenAI" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Prathmesh00796/Farm-Genius"><img src="./assets/project-farmgenius.svg" width="49%" alt="Farm-Genius" /></a>
-  <a href="https://github.com/Somesh813?tab=repositories"><img src="./assets/project-more.svg" width="49%" alt="More projects" /></a>
+  <a href="https://github.com/Prathmesh00796/Farm-Genius"><img src="./project-farmgenius.svg" width="49%" alt="Farm-Genius" /></a>
+  <a href="https://github.com/Somesh813?tab=repositories"><img src="./project-more.svg" width="49%" alt="More projects" /></a>
 </p>
 
 <a id="coding"></a>
@@ -88,9 +88,9 @@
 ## 🏅 Coding Profiles
 
 <p align="center">
-  <a href="https://www.leetcode.com/somesh_sharma"><img src="./assets/leetcode.svg" width="32%" alt="LeetCode" /></a>
-  <a href="https://kaggle.com/somesh0217"><img src="./assets/kaggle.svg" width="32%" alt="Kaggle" /></a>
-  <a href="https://www.hackerrank.com/someshsharma0217"><img src="./assets/hackerrank.svg" width="32%" alt="HackerRank" /></a>
+  <a href="https://www.leetcode.com/somesh_sharma"><img src="./leetcode.svg" width="32%" alt="LeetCode" /></a>
+  <a href="https://kaggle.com/somesh0217"><img src="./kaggle.svg" width="32%" alt="Kaggle" /></a>
+  <a href="https://www.hackerrank.com/someshsharma0217"><img src="./hackerrank.svg" width="32%" alt="HackerRank" /></a>
 </p>
 
 ---
