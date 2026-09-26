@@ -100,6 +100,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/Somesh813/sqlpilot/pull/1) in [Somesh813/sqlpilot](https://github.com/Somesh813/sqlpilot)
 <!--END_SECTION:activity-->
 
 <sub>🤖 Updated automatically every 6 hours by GitHub Actions</sub>
